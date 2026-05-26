@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633643758604",
+    "project_id": "musicman-4a940",
+    "storage_bucket": "musicman-4a940.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633643758604:android:a411863ced3c7fe9a76a29",
+        "android_client_info": {
+          "package_name": "com.example.musicman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmvL5iTCmAqJWTIpjXVgvTDgKVHhfYGlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
